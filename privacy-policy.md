@@ -1,6 +1,6 @@
 # Privacy Policy for Sonar TMA
 
-**Last Updated: [Date]**
+**Last Updated: 01MAR25**
 
 ## 1. Data Collection  
 - This app does not collect, store, or share personal information.  
@@ -11,4 +11,4 @@
 ## 3. Security  
 - We follow industry best practices to ensure user security.  
 
-If you have questions, contact us at **[your-email@example.com]**.
+If you have questions, contact us at **yarosapps@gmail.com**.
